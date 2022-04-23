@@ -29,13 +29,9 @@ const CurrentTempEl = ({data}) => {
     }else{
         return( 
             <View>
-
             </View>
-
-        )
-        
+        )  
     }
-   
 }
 
 const styles = StyleSheet.create({
